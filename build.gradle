@@ -1,0 +1,19 @@
+
+
+apply plugin: 'java'
+apply plugin: 'maven'
+
+group 'io.github.aritzhack'
+version '0.26-Beta'
+
+sourceCompatibility = 1.7
+targetCompatibility = 1.7
+
+repositories {
+    mavenCentral()
+    mavenLocal()
+}
+
+dependencies {
+    compile group: 'io.github.aritzhack', name: 'aritzh-bds', version: '+'
+}
