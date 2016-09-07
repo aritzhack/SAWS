@@ -1,6 +1,6 @@
-package io.github.aritzack.saws.api;
+package io.github.cubedtear.jcubit.net.saws.api;
 
-import io.github.aritzack.saws.impl.RemoteRunner;
+import io.github.cubedtear.jcubit.net.saws.impl.RemoteRunner;
 import io.github.aritzhack.aritzh.logging.core.ILogger;
 
 import java.io.IOException;
@@ -8,7 +8,7 @@ import java.lang.reflect.Proxy;
 import java.net.Socket;
 
 /**
- * @author aritzh
+ * @author Aritz Lopez
  */
 public class SawsClient {
 

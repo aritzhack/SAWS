@@ -1,7 +1,7 @@
-package io.github.aritzack.saws.api;
+package io.github.cubedtear.jcubit.net.saws.api;
 
 /**
- * @author aritzh
+ * @author Aritz Lopez
  */
 public class ConstantHandler<T> implements HandlerFactory<T> {
 

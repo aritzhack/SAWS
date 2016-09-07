@@ -1,4 +1,4 @@
-package io.github.aritzack.saws.impl;
+package io.github.cubedtear.jcubit.net.saws.impl;
 
 import com.google.common.primitives.Ints;
 import io.github.aritzhack.aritzh.bds.BDS;
@@ -17,7 +17,7 @@ import java.net.SocketException;
 import java.util.Arrays;
 
 /**
- * @author aritzh
+ * @author Aritz Lopez
  */
 public class RemoteRunner implements InvocationHandler {
 

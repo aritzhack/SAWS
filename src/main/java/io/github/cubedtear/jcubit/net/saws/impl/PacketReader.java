@@ -1,4 +1,4 @@
-package io.github.aritzack.saws.impl;
+package io.github.cubedtear.jcubit.net.saws.impl;
 
 import com.google.common.primitives.Ints;
 
@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * @author aritzh
+ * @author Aritz Lopez
  */
 public class PacketReader {
 

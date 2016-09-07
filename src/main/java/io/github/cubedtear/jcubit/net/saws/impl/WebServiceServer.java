@@ -1,4 +1,4 @@
-package io.github.aritzack.saws.impl;
+package io.github.cubedtear.jcubit.net.saws.impl;
 
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -7,7 +7,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 /**
- * @author aritzh
+ * @author Aritz Lopez
  */
 public class WebServiceServer {
 

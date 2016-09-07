@@ -1,9 +1,9 @@
-package io.github.aritzack.saws.impl;
+package io.github.cubedtear.jcubit.net.saws.impl;
 
 import com.google.common.collect.Maps;
 import com.google.common.primitives.Ints;
 import com.google.common.primitives.Primitives;
-import io.github.aritzack.saws.api.HandlerFactory;
+import io.github.cubedtear.jcubit.net.saws.api.HandlerFactory;
 import io.github.aritzhack.aritzh.bds.BDS;
 import io.github.aritzhack.aritzh.bds.BDSUtil;
 import io.github.aritzhack.aritzh.bds.SerializationException;
@@ -11,7 +11,6 @@ import io.github.aritzhack.aritzh.logging.OSLogger;
 import io.github.aritzhack.aritzh.logging.core.ILogger;
 import io.github.aritzhack.aritzh.logging.core.LogLevel;
 
-import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
@@ -23,7 +22,7 @@ import java.util.Arrays;
 import java.util.Map;
 
 /**
- * @author aritzh
+ * @author Aritz Lopez
  */
 public class ServerInstance implements Runnable {
 

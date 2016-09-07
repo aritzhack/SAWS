@@ -1,6 +1,6 @@
-package io.github.aritzack.saws.api;
+package io.github.cubedtear.jcubit.net.saws.api;
 
-import io.github.aritzack.saws.impl.ServerInstance;
+import io.github.cubedtear.jcubit.net.saws.impl.ServerInstance;
 import io.github.aritzhack.aritzh.logging.OSLogger;
 import io.github.aritzhack.aritzh.logging.core.ILogger;
 import io.github.aritzhack.aritzh.logging.core.LogLevel;
@@ -13,7 +13,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author aritzh
+ * @author Aritz Lopez
  */
 public class SawsServer implements Runnable {
 
